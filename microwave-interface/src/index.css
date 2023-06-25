@@ -1,0 +1,29 @@
+@import 'tailwindcss/tailwind.css';
+
+:root {
+  font-family: 'Poppins', sans-serif; 
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #dedede;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a:hover {
+  color: rgb(216 180 254);
+}
+
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2rem;
+}

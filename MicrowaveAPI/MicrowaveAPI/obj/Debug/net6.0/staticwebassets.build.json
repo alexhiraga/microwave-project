@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pCRaXayLVpMtRybuLHg2gleMHnQA1zKJk7eFg+P9NNU=",
+  "Source": "MicrowaveAPI",
+  "BasePath": "_content/MicrowaveAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
